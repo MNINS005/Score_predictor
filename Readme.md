@@ -1,4 +1,4 @@
-
+## check
 🎓 Student Performance Prediction – ML Web Application
 
 An end-to-end Machine Learning web application that predicts student math scores based on demographic and academic attributes.
@@ -128,3 +128,4 @@ preprocessor.pkl – fitted preprocessing pipeline
 
 
 📌 These files are stored in artifacts/ and excluded from version control
+
