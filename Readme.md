@@ -1,3 +1,4 @@
+
 🎓 Student Performance Prediction – ML Web Application
 
 An end-to-end Machine Learning web application that predicts student math scores based on demographic and academic attributes.
@@ -124,5 +125,6 @@ Generated during training:
 model.pkl – trained ML model
 
 preprocessor.pkl – fitted preprocessing pipeline
+
 
 📌 These files are stored in artifacts/ and excluded from version control
